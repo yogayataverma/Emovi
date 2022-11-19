@@ -21,7 +21,7 @@ import numpy as np
 count=25
 
 name = input('What is your email?\n')  
-password = input('Please enter the password of yout mail \n[we do not want your regular password we want your \n encrypted password and we do not store your passwords]\n To get password please go to > gmail accounts > security > \n app passwords > set select app = mail > \n set select device = windows computer \n copy it and paste it here Caution : Please make sure your \n mail have two factor authentication on')
+password = input('Please enter the password of yout mail \n[we do not want your regular password we want your \n encrypted password and we do not store your passwords]\n To get password please go to > gmail accounts > security > \n app passwords > set select app = mail > \n set select device = windows computer \n copy it and paste it here Caution : Please make sure your \n mail have two factor authentication on \n ')
 
 
 def email_emo():
